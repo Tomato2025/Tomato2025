@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>我的个人主页</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    h1 { color: #2c3e50; }
+    nav a { margin: 0 10px; text-decoration: none; color: #2980b9; }
+    section { margin-top: 30px; }
+  </style>
+</head>
+<body>
+  <h1>段予晴的个人主页</h1>
+  <nav>
+    <a href="#about">关于我</a>
+    <a href="#projects">项目</a>
+    <a href="#blog">博客</a>
+    <a href="#contact">联系</a>
+  </nav>
+
+  <section id="about">
+    <h2>关于我</h2>
+    <p>APU本科生，专注于计算机与机械设计，擅长Linux系统管理与PowerShell。</p>
+  </section>
+
+  <section id="projects">
+    <h2>项目展示</h2>
+    <ul>
+      <li>Ubuntu登录问题排查</li>
+      <li>PowerShell磁盘空间分析工具</li>
+    </ul>
+  </section>
+
+  <section id="blog">
+    <h2>博客</h2>
+    <p>这里可以写学习笔记和技术分享。</p>
+  </section>
+
+  <section id="contact">
+    <h2>联系我</h2>
+    <p>Email: yourname@example.com</p>
+    <p>GitHub: <a href="https://github.com/Tomato2025">Tomato2025</a></p>
+  </section>
+</body>
+</html>
