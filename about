@@ -1,1 +1,11 @@
 #展示个人信息：教育经历、成绩单、学习课程、兴趣爱好、个人时间线。
+#导航栏
+<nav>
+  <a href="index.html">首页</a>
+  <a href="about.html">关于我</a>
+  <a href="projects.html">项目</a>
+  <a href="blog.html">博客</a>
+  <a href="knowledge.html">知识网络</a>
+  <a href="friends.html">朋友圈</a>
+  <a href="contact.html">联系</a>
+</nav>
