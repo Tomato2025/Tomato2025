@@ -1,0 +1,11 @@
+<template>
+  <nav>
+    <a href="/">首页</a>
+    <a href="/about">关于我</a>
+    <a href="/projects">项目</a>
+    <a href="/blog">博客</a>
+    <a href="/knowledge">知识网络</a>
+    <a href="/friends">朋友圈</a>
+    <a href="/contact">联系</a>
+  </nav>
+</template>
